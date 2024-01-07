@@ -2,8 +2,6 @@ A full-fledged autoclicker with two modes of autoclicking, at your dynamic curso
 
 Hotkeys work in the background for convenience.
 
-If you want to automate group of mouse actions, Please try this https://sourceforge.net/projects/orphamielautoclicker/files/AutoClickers.exe/download
-
 Whats new in v1.0.0.2:
 1. You can now change your hotkeys!
 2. Changed the about page
